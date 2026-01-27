@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.3">
+  <diagram name="Página-1" id="Xp26fxAlD9-lqsF7eUuu">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R0ddr-3_InUAiab7Eglo-3" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="R0ddr-3_InUAiab7Eglo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-6" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="R0ddr-3_InUAiab7Eglo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-2" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Inicio Cargado" vertex="1">
+          <mxGeometry height="40" width="100" x="130" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="URL" vertex="1">
+          <mxGeometry height="30" width="60" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-9" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="R0ddr-3_InUAiab7Eglo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-5" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Formulario Login Cargado" vertex="1">
+          <mxGeometry height="40" width="100" x="334" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pedir login" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-12" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="R0ddr-3_InUAiab7Eglo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-15" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="R0ddr-3_InUAiab7Eglo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-8" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Usuario en validacion" vertex="1">
+          <mxGeometry height="40" width="100" x="520" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Introducir datos" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-23" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-26" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="R0ddr-3_InUAiab7Eglo-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="465" />
+            </Array>
+            <mxPoint x="600" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-11" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Visualizando Dashboard" vertex="1">
+          <mxGeometry height="40" width="100" x="700" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dejar pasar" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-17" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="R0ddr-3_InUAiab7Eglo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-20" edge="1" parent="1" source="R0ddr-3_InUAiab7Eglo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="R0ddr-3_InUAiab7Eglo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-14" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Usuario Rechazado" vertex="1">
+          <mxGeometry height="40" width="100" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rechazar" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Introducir datos&lt;div&gt;(Puede tener un número límite de intentos)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="134" x="360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-19" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="555" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nº intentos superados" vertex="1">
+          <mxGeometry height="30" width="75" x="480" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Navegar" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R0ddr-3_InUAiab7Eglo-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logout" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
